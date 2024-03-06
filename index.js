@@ -1,7 +1,7 @@
 import React from "react";
 
-function index() {
-  return <div>index</div>;
+function () {
+  return <div>300 papa</div>;
 }
 
-export default index;
+export default 
